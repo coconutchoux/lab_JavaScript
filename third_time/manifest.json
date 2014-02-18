@@ -1,0 +1,11 @@
+{
+	"name" : "계산기",
+	"description" : "자바스크립트 스터디 때 활용할 크롬 어플리케이션 계산기",
+	"version" : "0.0.1",
+	"app" : {
+		"background" : {
+			"scripts" : ["app.js"]
+		}
+	},
+	"icons" : { "16" : "calculator-16.png", "128" : "calculator-128.png" }
+}
